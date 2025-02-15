@@ -1,20 +1,77 @@
-mkdir Algorithm-Solutions && cd Algorithm-Solutions
+# Algorithm Solutions Repository
 
-mkdir Quera Codeforces Leetcode
+This repository contains algorithmic problem solutions from three popular platforms: **Quera**, **Codeforces**, and **LeetCode**.
+Problems are categorized appropriately, and solutions are implemented in various languages.
 
-cd Quera
-mkdir Algorithm Python Golang Django
-echo "# Quera Solutions" > README.md
+## 📂 Repository Structure
+```
+Algorithm-Solutions
+│── Quera
+│   ├── Algorithm
+│   ├── Python
+│   ├── Golang
+│   ├── Django
+│   ├── README.md
+│── Codeforces
+│   ├── README.md
+│── Leetcode
+│   ├── README.md
+│── README.md
+```
 
-cd ../Codeforces
-echo "# Codeforces Solutions" > README.md
+---
 
-cd ../Leetcode
-echo "# Leetcode Solutions" > README.md
+# Quera
+![Quera Logo](https://quera.org/images/quera_logo.svg)
 
-cd ..
-echo "# Algorithm Solutions Repository" > README.md
+Quera is an Iranian educational platform offering a variety of programming and algorithmic challenges. This section contains solutions categorized into **Python**, **Golang**, and **Django**.
 
-git init
-git add .
-git commit -m "Initial commit - Project structure created"
+📌 **Directory Structure:**
+- **Algorithm** → Algorithmic problems solved in various languages
+- **Python** → Problems solved using Python
+- **Golang** → Problems solved using Golang
+- **Django** → Problems related to the Django framework
+
+🔹 Each problem is stored as a file using its unique identifier.
+
+📄 [View solved problems on Quera](./Quera)
+
+---
+
+# Codeforces
+![Codeforces Logo](https://sta.codeforces.com/s/83989/images/codeforces-sponsored-by-ton.png)
+
+**Codeforces** is one of the most well-known competitive programming platforms, featuring a wide range of challenging problems. This section contains solutions from various Codeforces contests.
+
+📌 **Features:**
+- Problems from **Div.1**, **Div.2**, **Div.3**
+- Solutions implemented in **C++, Python, Java**
+- Categorized by **contest number** and **problem ID**
+
+📄 [View solved problems on Codeforces](./Codeforces)
+
+---
+
+# LeetCode
+![LeetCode Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
+
+**LeetCode** is one of the most popular websites for practicing **algorithms** and **data structures**, commonly used for technical interviews at major companies like **Google, Facebook, Amazon**.
+
+📌 **Features:**
+- Problems categorized as **Easy**, **Medium**, **Hard**.
+- Solutions implemented in **Python, Java, C++**.
+- Contains frequently asked interview questions.
+
+📄 [View solved problems on LeetCode](./Leetcode)
+
+---
+
+## 🤝 Contributing
+
+If you want to add a new problem solution:
+1. Save the problem in the appropriate directory.
+2. Add your solution to the corresponding file.
+3. Submit a Pull Request.
+
+💡 **The goal of this project is to enhance learning and improve algorithmic skills!**
+

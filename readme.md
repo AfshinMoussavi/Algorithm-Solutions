@@ -22,7 +22,6 @@ Algorithm-Solutions
 ---
 
 # Quera
-![Quera Logo](https://quera.org/images/quera_logo.svg)
 
 Quera is an Iranian educational platform offering a variety of programming and algorithmic challenges. This section contains solutions categorized into **Python**, **Golang**, and **Django**.
 
@@ -39,7 +38,6 @@ Quera is an Iranian educational platform offering a variety of programming and a
 ---
 
 # Codeforces
-![Codeforces Logo](https://sta.codeforces.com/s/83989/images/codeforces-sponsored-by-ton.png)
 
 **Codeforces** is one of the most well-known competitive programming platforms, featuring a wide range of challenging problems. This section contains solutions from various Codeforces contests.
 
@@ -53,7 +51,6 @@ Quera is an Iranian educational platform offering a variety of programming and a
 ---
 
 # LeetCode
-![LeetCode Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
 
 **LeetCode** is one of the most popular websites for practicing **algorithms** and **data structures**, commonly used for technical interviews at major companies like **Google, Facebook, Amazon**.
 

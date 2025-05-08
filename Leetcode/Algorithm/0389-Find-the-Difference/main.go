@@ -15,7 +15,3 @@ func findTheDifference(s string, t string) byte {
 	}
 	return t[0] 
 }
-
-
-
-

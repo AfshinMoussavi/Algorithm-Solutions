@@ -17,5 +17,3 @@ func mergeAlternately(word1 string, word2 string) string {
 	}
 	return string(result)
 }
-
-

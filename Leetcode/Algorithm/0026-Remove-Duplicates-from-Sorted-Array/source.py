@@ -14,9 +14,3 @@ class Solution:
                 unique.append(nums[i])
                 i += 1
         return len(unique)
-
-
-
-
-
-

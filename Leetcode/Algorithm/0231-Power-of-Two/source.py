@@ -1,8 +1,5 @@
 # Name: 231. Power of Two
 # URL:  https://leetcode.com/problems/power-of-two/description/
-import math
-from operator import truediv
-
 
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
